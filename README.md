@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pedro Scarton</h1>
+<h1 align="center">Hi 👋 I'm Pedro Scarton</h1>
 <h3 align="center">a software engineer focused on creating user-friendly solutions. I think a conversation is more than a thousand lines of code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedroscarton&label=Profile%20views&color=0e75b6&style=flat" alt="pedroscarton" /> </p>
