@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedroscarton" alt="pedroscarton" /></a> </p>
 
-- 🔭 Actualmente trabajo en [Batuta at MetabaseQ](https://www.metabaseq.com/introducing-batuta/)
+- 🔭 Actualmente trabajo en [Batuta](https://www.batuta.com/)
 
 - 🌱 Estoy aprendiendo a establecer procesos para gestionar equipos de alto rendimiento y generar compromiso
 
